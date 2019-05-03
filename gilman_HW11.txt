@@ -7,6 +7,8 @@ Date Last Modified: 4/03/2019 -->
 
 <p style="background-color: green; color: white;"></p>
 
+should be in hex
+
 2. Write the HTML and CSS code for an embedded style sheet that configures a background color of #EAEAEA and a text color of #000033.
 
 <style>
@@ -25,6 +27,8 @@ color: brown;
 font-size: 1.2em;
 font-family: arial;
 }
+should be in hex
+missing font list
 
 4. Write the HTML and CSS code for an embedded style sheet that configures a class called new that is bold and italic.
 
